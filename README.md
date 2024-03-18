@@ -8,7 +8,7 @@ This project aims to simulate the website of a pet shelter.It includes a landing
 ### Given that it's part of an academic activity, the project had to meet the following requirements:
 
 **Design Requirements:**
-* First, it's necessary to access the link where the design is located: https://www.figma.com/file/ptZy1a106K1UbSFh1O4v93/Food-store-template- (Community)?node-id=0%3A1
+* First, it's necessary to access the link where the design is located: https://www.figma.com/file/ptZy1a106K1UbSFh1O4v93/Food-store-template-(Community)?node-id=0%3A1
 * The proposed design is flexible and subject to changes and improvements.
 * The content of the Homepage is at the discretion of the developers: The images to use, icon style, company or organization name, logo, text, and color palette.
 
