@@ -24,3 +24,22 @@ This project aims to simulate the website of a pet shelter.It includes a landing
 * When the purchase button is pressed, a modal should open to confirm the purchase.
 * Upon confirming the purchase, the cart number should increase by one.
 * The image gallery should display at least 10 images in a carousel.
+
+
+## Getting Started
+
+This project uses json-server:
+
+```bash
+npm run apilocal
+```
+Open [http://localhost:5000](http://localhost:5000) with your browser to see the API.
+
+
+
+Run the development server:
+
+```bash
+npm run dev
+```
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
