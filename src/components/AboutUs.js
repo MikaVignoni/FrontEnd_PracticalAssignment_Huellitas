@@ -1,6 +1,5 @@
 import Carousel from "./CarouselAboutUs";
 
-
 const AboutUs = () => {
   return ( <>
 

@@ -9,13 +9,13 @@ function CartItem(props) {
     if (parseInt(item.qty, 10) > 1) { 
       DELETE_ONE_ITEM_IN_CART(item.id);
     } else { 
-      const isConfirmed = window.confirm("Do you want to remove the item from the cart?");
+      const isConfirmed = window.confirm(`Do you want to remove the ${product.name} from the cart?`);
       if (isConfirmed) { DELETE_ITEM_IN_CART(item.id); }
     }
   };
   
   const handleDeleteAll = () => {
-    const isConfirmed = window.confirm( "Do you want to remove the item from the cart?" );
+    const isConfirmed = window.confirm( `Do you want to remove the ${product.name} from the cart?` );
     if (isConfirmed) { DELETE_ITEM_IN_CART(item.id); }
   };
 

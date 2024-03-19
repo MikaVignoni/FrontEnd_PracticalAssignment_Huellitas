@@ -4,9 +4,9 @@ function Card(props) {
   const handleAddToCart = () => {
     const isConfirmed = window.confirm(
       product.collected
-        ? `You already have this card. 
+        ? `You already have the ${product.name}. 
         Do you want to buy it again?`
-        : `Do you want to buy this card?`
+        : `Do you want to buy the ${product.name}?`
     );
 
     if (isConfirmed) { ADD_ITEM_TO_CART(product.id); }
