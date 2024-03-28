@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "apilocal": "json-server --port 5000 --watch src/assets/db.json"
+    "start:prod": "npm run build && npm run apilocal",
   },
   "dependencies": {
     "axios": "^1.6.8",
