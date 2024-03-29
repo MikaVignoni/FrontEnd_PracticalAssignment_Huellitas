@@ -25,7 +25,7 @@ function Card(props) {
       <h4>$ {product.price}</h4>
 
       <button onClick={handleAddToCart}>
-        Añadir al Carrito
+        Add to Cart
       </button>
 
     </figure>
