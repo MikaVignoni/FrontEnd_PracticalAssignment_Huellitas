@@ -3,18 +3,19 @@ import Carousel from "./CarouselAboutUs";
 const AboutUs = () => {
   return ( <>
 
-    <h2>Sobre Nosotros</h2>
+    <h2>About Us</h2>
 
-    <h3>¡Bienvenido a Huellitas!</h3>
+    <h3>Welcome to Huellitas!!</h3>
 
-    <p> En Huellitas, creemos en el poder transformador del amor incondicional que las mascotas brindan a nuestras vidas. Somos un refugio comprometido con el bienestar y la protección de animales abandonados y maltratados, ofreciéndoles un hogar temporal seguro mientras buscamos familias amorosas que los adopten para siempre.</p>
-    <p>Nuestra historia comenzó con un pequeño grupo de amantes de los animales que se unieron con un objetivo común: proporcionar refugio, atención médica y cariño a las mascotas desamparadas de nuestra comunidad. Desde entonces, hemos dedicado incansables esfuerzos para ofrecer un ambiente cálido y acogedor donde cada animal se sienta querido y valorado.</p>
-    <p>Proporcionamos un techo sobre sus cabezas y comida en sus platos; también les ofrecemos atención veterinaria integral, programas de socialización y actividades recreativas para asegurarnos de que cada mascota se sienta segura, feliz y saludable mientras espera su hogar definitivo.</p>
-    <p>Nuestro equipo está formado por apasionados defensores de los derechos de los animales y profesionales comprometidos que trabajan arduamente para garantizar que cada mascota reciba el amor y la atención que merece. Además, contamos con una red de voluntarios dedicados y generosos donantes que son el corazón de nuestra organización.</p>
-    <p>En Huellitas estamos comprometidos con el rescate y la adopción de mascotas, sino también con la educación de la comunidad sobre la importancia de la tenencia responsable de animales y la prevención del abandono y el maltrato animal.</p>
-    <p>Cada vez que una mascota encuentra un hogar amoroso y una familia para siempre, sentimos una profunda gratitud y alegría por ser parte de esa conexión especial. Nos emociona seguir transformando vidas, una pata a la vez.</p>
-    <p> Gracias por visitar Huellitas y ser parte de este viaje para hacer del mundo un lugar mejor para todas las criaturas de cuatro patas. </p>
-  
+    <p>We celebrate the life-changing bond between humans and animals. Here, we embrace the incredible power of unconditional love that our furry friends bring into our lives. </p>
+    <p>Huellitas is more than just a shelter; we're a haven for abandoned and mistreated animals, offering them a safe refuge while we tirelessly seek loving forever homes for each and every one of them.</p>
+    <p>Our journey began with a group of compassionate individuals united by a simple yet powerful mission: to provide shelter, care, and affection to the homeless pets in our community. Since then, we've worked tirelessly to create a nurturing environment where every animal feels cherished and valued.</p>
+    <p>We provide more than just the basics; we offer comprehensive veterinary care, socialization programs, and engaging activities to ensure the well-being and happiness of each pet as they await their forever families.</p>
+    <p>Our team is made up of passionate animal advocates and dedicated professionals who are committed to ensuring that every pet receives the love and attention they deserve. Together with our incredible network of volunteers and donors, we form the heart and soul of Huellitas.</p>
+    <p>Beyond rescue and adoption, we are deeply committed to educating our community about responsible pet ownership and preventing animal neglect and abuse.</p>
+    <p>Every time one of our pets finds their forever home, our hearts overflow with gratitude and joy. We are honored to be a part of these life-changing connections, and we look forward to continuing to transform lives, one paw at a time.</p>
+    <p>Thank you for joining us on this journey to create a brighter future for all our four-legged friends. </p>
+
     <div className="Carousel" >
       <Carousel />
     </div>
