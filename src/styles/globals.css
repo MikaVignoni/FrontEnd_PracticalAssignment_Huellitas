@@ -83,6 +83,7 @@ ul, li{
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  background-image: url("/img/Landing_Page/LandingPage_1.webp");
 }
 
 .Page-Content{
